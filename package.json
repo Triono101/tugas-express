@@ -2,16 +2,16 @@
   "name": "tugas-express",
   "version": "1.0.0",
   "description": "Tugas Express Js",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
   },
   "author": "Triono",
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.2",
-    "moment": "^2.29.1",
-    "pug": "^3.0.2"
+    "moment": "^2.29.1"
   },
   "devDependencies": {
     "nodemon": "^2.0.15"
