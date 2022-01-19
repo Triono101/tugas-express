@@ -1,0 +1,30 @@
+{
+  "name": "tugas-express",
+  "version": "1.0.0",
+  "description": "Tugas Express Js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Triono",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.2",
+    "moment": "^2.29.1",
+    "pug": "^3.0.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  },
+  "keywords": [
+    "heroku"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Triono101/tugas-express.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Triono101/tugas-express/issues"
+  },
+  "homepage": "https://github.com/Triono101/tugas-express#readme"
+}
